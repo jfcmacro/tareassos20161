@@ -38,5 +38,5 @@ bin:
 	mkdir bin
 
 clean:
-	rm -f *.o bin/tarea* src/*.*~ src/*~
+	rm -f src/*.o bin/tarea* src/*.*~ src/*~
 	rmdir bin
